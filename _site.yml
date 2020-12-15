@@ -1,0 +1,5 @@
+name: "Mau prueba"
+output_dir: "docs"
+output:
+  html_document:
+  theme: cosmo
