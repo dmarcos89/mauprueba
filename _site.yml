@@ -2,4 +2,13 @@ name: "Mau prueba"
 output_dir: "docs"
 output:
   html_document:
-  theme: cosmo
+    theme: cosmo
+navbar:
+  title: "Repo title here"
+  right:
+    - text: "Home"
+      href: index.md
+    - text: "Link 1"
+      href: diabetes.md
+    - text: "Link 2"
+      href: diabetes.html
